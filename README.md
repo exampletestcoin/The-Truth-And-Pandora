@@ -1,6 +1,7 @@
 - import re
 def execute_command(command):
 if command == "/":
+- ` 使用/触发指令 -这是一个特别版的模式，暂时不公布等待三天后才完全公开
 <a href="https://chatgpt-plus.neocities.org/thank%20for%20support">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/mywallet.png" alt="a description of the image" onclick="window.location.href='https://chatgpt-plus.neocities.org/thank%20for%20support">
 </a>
