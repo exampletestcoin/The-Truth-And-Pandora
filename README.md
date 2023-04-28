@@ -12,12 +12,10 @@
 <li>
 <details open="open">
   <summary>测试版</summary>
-  ```
 import re
 def execute_command(command):
 if command == "/":
 这是一个测试版没那么快公布
-```
   </details>
 </li>
 <li>
