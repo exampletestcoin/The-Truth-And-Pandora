@@ -13,3 +13,12 @@ if command == "/":
 <a href="https://discord.gg/RAxvgMzS">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/discord.png" alt="a description of the image" onclick="window.location.href='https://discord.gg/RAxvgMzS">
 </a>
+
+<ul>
+<li>
+<details open="open">
+  <summary>测试版</summary>
+  </details>
+</li>
+<li>
+<details>
