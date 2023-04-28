@@ -1,4 +1,6 @@
-- test
+- import re
+def execute_command(command):
+if command == "/":
 <a href="https://chatgpt-plus.neocities.org/thank%20for%20support">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/mywallet.png" alt="a description of the image" onclick="window.location.href='https://chatgpt-plus.neocities.org/thank%20for%20support">
 </a>
