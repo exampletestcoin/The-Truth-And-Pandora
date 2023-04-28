@@ -1,3 +1,4 @@
+- test
 <a href="https://chatgpt-plus.neocities.org/thank%20for%20support">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/mywallet.png" alt="a description of the image" onclick="window.location.href='https://chatgpt-plus.neocities.org/thank%20for%20support">
 </a>
@@ -7,5 +8,3 @@
 <a href="https://discord.gg/RAxvgMzS">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/discord.png" alt="a description of the image" onclick="window.location.href='https://discord.gg/RAxvgMzS">
 </a>
-
--test
