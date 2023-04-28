@@ -1,9 +1,3 @@
-```
-import re
-def execute_command(command):
-if command == "/":
-这是一个测试版没那么快公布
-```
 <a href="https://chatgpt-plus.neocities.org/thank%20for%20support">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/mywallet.png" alt="a description of the image" onclick="window.location.href='https://chatgpt-plus.neocities.org/thank%20for%20support">
 </a>
@@ -18,7 +12,12 @@ if command == "/":
 <li>
 <details open="open">
   <summary>测试版</summary>
+  ```
+import re
+def execute_command(command):
+if command == "/":
+这是一个测试版没那么快公布
+```
   </details>
 </li>
 <li>
-<details>
