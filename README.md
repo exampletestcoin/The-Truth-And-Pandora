@@ -7,5 +7,5 @@
 <a href="https://discord.gg/RAxvgMzS">
 <img src="https://github.com/greyhack1231245/The-Truth-And-Pandora/blob/main/Images/discord.png" alt="a description of the image" onclick="window.location.href='https://discord.gg/RAxvgMzS">
 </a>
-- <h1>如何使用教程</h1>
+- 如何使用教程
 - 只需要直接复制粘贴再输入字体就那么简单
